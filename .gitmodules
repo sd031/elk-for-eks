@@ -1,0 +1,3 @@
+[submodule "submodules/three-tier-eks-iac"]
+	path = submodules/three-tier-eks-iac
+	url = https://github.com/sd031/three-tier-eks-iac
